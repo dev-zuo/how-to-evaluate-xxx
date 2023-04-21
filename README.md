@@ -4,6 +4,9 @@
 
 如果觉得 "如何评价xxx" 容易引战，可以把这个问题换个角度，比如 "你对 XXX 的印象是？"
 
+![image](https://user-images.githubusercontent.com/28626865/233674505-13762cd2-a0f8-4e65-b7fe-ba3d82d8a7f4.png)
+
+## list
 - [如何评价方应杭？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
 - [如何评价程序员鱼皮？技术水、爱割韭菜？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/2)
 - [如何评价三太子敖丙？洗文高手、自恋狂？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/3)
