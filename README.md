@@ -4,4 +4,22 @@
 
 如果觉得 "如何评价xxx" 容易引战，可以把这个问题换个角度，比如 "你对 XXX 的印象是？"
 
-- [1、如何评价方应杭？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
+- [如何评价方应杭？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
+- [如何评价程序员鱼皮？技术水、爱割韭菜？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/2)
+- [如何评价三太子敖丙？洗文高手、自恋狂？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/3)
+- [如何评价 全栈然叔，杨村长，bubucuo？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/5)
+- [如何评价技术胖？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/6)
+- [如何评价 "java之父"余胜军？酷爱装逼、搞笑区主播？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/7)
+- [如何评价李立超？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/8)
+- [如何评价珠峰-周啸天？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/9)
+- [如何评价百万年薪前端大佬贺师俊(hax)与360的劳动争议纠纷？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/10)
+- [如何评价前端领域大圣(花果山大圣)？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/11)
+- [如何评价黑马 pink 老师？](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/12)
+
+<!--
+- [](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
+- [](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
+- [](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
+- [](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
+- [](https://github.com/zuoxiaobai/how-to-evaluate-xxx/issues/4)
+-->
